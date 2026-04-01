@@ -1,0 +1,9 @@
+{
+  "name": "alamin/blazeoptix",
+  "description": "Advanced free image optimizer for WordPress",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "php": ">=7.4"
+  }
+}
